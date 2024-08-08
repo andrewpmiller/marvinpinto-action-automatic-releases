@@ -1,5 +1,5 @@
 # GitHub Automatic Releases
-
+ 
 This action simplifies the GitHub release process by automatically uploading assets, generating changelogs, handling pre-releases, and so on.
 
 ## Contents
